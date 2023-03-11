@@ -1,0 +1,2 @@
+#define REDIS_VERSION "6.2.10"
+#define REDIS_VERSION_NUM 0x0006020a
